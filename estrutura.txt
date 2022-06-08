@@ -1,0 +1,8 @@
+Abstract – resumo: context, ideia, frase sobre metodos e resumo dos resultados
+Introdução – estado da arte (exemplos de trabalhos anteriores) + resumidamente o trabalho que vai ser feito
+Materiais e métodos 
+Resulatdos – graficos, tabelas…
+DISCUSSAO – analise dos resultados + comparação (seexistir) com trabalhos anteriores
+Conclusoes – qual foi a principal “conquista” do trabalho
+
+
